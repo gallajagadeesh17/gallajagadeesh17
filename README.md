@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Galla Jagadeesh
 
-<!--
-**gallajagadeesh17/gallajagadeesh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science (Artificial Intelligence) student with a strong interest in artificial intelligence, machine learning, and data-driven systems.  
+I enjoy building real-world projects that apply theoretical concepts to practical problems and help me grow as a developer.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+- Machine learning projects such as spam email detection and recommendation systems  
+- Improving my Python programming and problem-solving skills  
+- Building and enhancing web-based applications for my portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies I use
+- Programming Languages: Python, HTML, CSS  
+- Machine Learning: Scikit-learn, NLP basics  
+- Development Tools: Git, GitHub, Jupyter Notebook  
+- Currently exploring: AI agents and full-stack development
+
+### 📫 How to reach me
+- Email: jagadeesh.galla20@gmail.com  
+- GitHub: https://github.com/gallajagadeesh17  
+- Location: Guntur, India
+
