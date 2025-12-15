@@ -18,4 +18,10 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 - Email: jagadeesh.galla20@gmail.com  
 - linkden: www.linkedin.com/in/galla-jagadeesh-001310298
 - Location: Guntur, India
+## 🧰 Tools & Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 
