@@ -16,5 +16,5 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 
 ### 📫 How to reach me
 - Email: jagadeesh.galla20@gmail.com  
-- linkden: www.linkedin.com/in/galla-jagadeesh-001310298
+- LinkedIn: www.linkedin.com/in/galla-jagadeesh-001310298
 - Location: Guntur, India
