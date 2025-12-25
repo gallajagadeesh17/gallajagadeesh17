@@ -14,7 +14,9 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 - Machine Learning: Scikit-learn, NLP basics  
 - Development Tools: Git, GitHub, Jupyter Notebook  
 - Currently exploring: AI agents and full-stack development
-##🚀 Projects
+
+  
+### 🚀 Projects
 - 🎭 MoodFlix – Mood-based Movie Recommendation System (Python, ML)
 - 📧 Spam Email Detection using Machine Learning
 
@@ -29,6 +31,7 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=tokyonight)
+
 
 
