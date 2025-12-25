@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Galla Jagadeesh
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Galla Jagadeesh
+
 
 I am a B.Tech Computer Science (Artificial Intelligence) student with a strong interest in artificial intelligence, machine learning, and data-driven systems.  
 I enjoy building real-world projects that apply theoretical concepts to practical problems and help me grow as a developer.
