@@ -31,7 +31,8 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gallajagadeesh17&show_icons=true)
+
 
 
 
