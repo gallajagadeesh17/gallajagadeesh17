@@ -32,6 +32,7 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gallajagadeesh17&color=blue)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gallajagadeesh17&theme=github-dark)
 
 
 
