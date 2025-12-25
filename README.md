@@ -11,15 +11,21 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 
 ### 🛠️ Tools & Technologies I use
 - Programming Languages: Python, HTML, CSS
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
-  ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-
 - Machine Learning: Scikit-learn, NLP basics  
 - Development Tools: Git, GitHub, Jupyter Notebook  
 - Currently exploring: AI agents and full-stack development
+##🚀 Projects
+- 🎭 MoodFlix – Mood-based Movie Recommendation System (Python, ML)
+- 📧 Spam Email Detection using Machine Learning
+
 
 ### 📫 How to reach me
 - Email: jagadeesh.galla20@gmail.com  
 - LinkedIn: www.linkedin.com/in/galla-jagadeesh-001310298
 - Location: Guntur, India
+- 
+### ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-blue)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=dark)
