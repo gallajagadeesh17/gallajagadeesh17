@@ -13,6 +13,7 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 - Programming Languages: Python, HTML, CSS
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
+  ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 - Machine Learning: Scikit-learn, NLP basics  
 - Development Tools: Git, GitHub, Jupyter Notebook  
