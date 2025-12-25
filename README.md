@@ -28,4 +28,5 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gallajagadeesh17&show_icons=true&theme=tokyonight)
+
