@@ -10,7 +10,10 @@ I enjoy building real-world projects that apply theoretical concepts to practica
 - Building and enhancing web-based applications for my portfolio
 
 ### 🛠️ Tools & Technologies I use
-- Programming Languages: Python, HTML, CSS  
+- Programming Languages: Python, HTML, CSS
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![ML](https://img.shields.io/badge/Machine%20Learning-blue)
+
 - Machine Learning: Scikit-learn, NLP basics  
 - Development Tools: Git, GitHub, Jupyter Notebook  
 - Currently exploring: AI agents and full-stack development
