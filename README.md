@@ -47,7 +47,7 @@
 ## 📌 Projects
 - 🎭 **MoodFlix** – Mood-Based Movie Recommendation System  
 - 📧 **Spam Email Detection** using Machine Learning  
-- 🎵 **Spotify-like Telugu Music App** (Ongoing)  
+
 
 > 📂 Check my pinned repositories for project source code
 
