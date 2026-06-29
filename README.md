@@ -53,13 +53,13 @@
 
 ## 🌟 Core Skills
 
-✔ Problem Solving
-✔ Team Collaboration
-✔ Fast Learner
-✔ Analytical Thinking
-✔ AI Automation
-✔ REST APIs
-✔ Prompt Engineering
+-✔ Problem Solving
+-✔ Team Collaboration
+-✔ Fast Learner
+-✔ Analytical Thinking
+-✔ AI Automation
+-✔ REST APIs
+-✔ Prompt Engineering
 
 ---
 <p>
