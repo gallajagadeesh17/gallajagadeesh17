@@ -18,6 +18,23 @@
 - Exploring **AI agents** and **full-stack development**
 
 ---
+## 🏆 Achievements
+
+- 🚀 Built AI-powered workflow automation using n8n and Gemini AI
+- 🤖 Developed multiple Machine Learning and AI-based projects
+- 💡 Passionate about solving real-world problems with AI
+
+---
+
+## 💡 What I Love Building
+
+- 🤖 AI Agents
+- ⚡ Workflow Automation
+- 🌐 Full-Stack Web Applications
+- 🧠 Machine Learning Solutions
+- 🚀 Productivity Tools
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +49,19 @@
 - Git, GitHub  
 - Jupyter Notebook  
 
+---
+
+## 🌟 Core Skills
+
+✔ Problem Solving
+✔ Team Collaboration
+✔ Fast Learner
+✔ Analytical Thinking
+✔ AI Automation
+✔ REST APIs
+✔ Prompt Engineering
+
+---
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-blue"/>
