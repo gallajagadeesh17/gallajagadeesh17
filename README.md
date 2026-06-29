@@ -3,19 +3,14 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech Computer Science (Artificial Intelligence) student  
-- 🤖 Strong interest in **AI, Machine Learning & Data-driven systems**  
-- 🧠 I enjoy converting **theory into real-world projects**  
-- 🎯 Currently preparing for **internships & placements**
+## 🚀 About Me
 
----
-
-## 🚀 What I’m Currently Working On
-- Machine Learning projects (Spam Detection, Recommendation Systems)
-- Improving **Python** and **problem-solving** skills
-- Building **web-based and AI-powered applications**
-- Exploring **AI agents** and **full-stack development**
+- 🎓 B.Tech Computer Science (Artificial Intelligence) student
+- 🤖 Passionate about Artificial Intelligence, AI Automation, and Full-Stack Development
+- ⚡ Building intelligent workflow automation using n8n and Google Gemini AI
+- 💡 Love transforming real-world ideas into practical AI-powered applications
+- 🌱 Continuously learning AI Agents, Machine Learning, and modern software development
+- 🎯 Actively seeking opportunities to contribute to innovative AI projects
 
 ---
 ## 🏆 Achievements
@@ -36,43 +31,65 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Skills
 
-**Languages**
-- Python, HTML, CSS  
+### 👨‍💻 Programming Languages
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- SQL
 
-**Machine Learning**
-- Scikit-learn  
-- NLP basics  
+### 🤖 Artificial Intelligence
+- Generative AI
+- Agentic AI
+- Prompt Engineering
+- Machine Learning
+- Natural Language Processing (NLP)
 
-**Tools & Platforms**
-- Git, GitHub  
-- Jupyter Notebook  
+### ⚡ Automation
+- n8n
+- Workflow Automation
+- AI Agents
+- REST APIs
+
+### 🌐 Web Development
+- Flask
+- Bootstrap
+- Responsive Web Design
+
+### 🗄 Database
+- SQLite
+
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 🌟 Core Skills
 
--✔ Problem Solving
--✔ Team Collaboration
--✔ Fast Learner
--✔ Analytical Thinking
--✔ AI Automation
--✔ REST APIs
--✔ Prompt Engineering
+✔ Problem Solving
 
----
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue"/>
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
-</p>
+✔ Team Collaboration
+
+✔ Fast Learner
+
+✔ Analytical Thinking
+
+✔ AI Automation
+
+✔ REST APIs
+
+✔ Prompt Engineering
 
 ---
 
 ## 📌 Projects
 - 🎭 **MoodFlix** – Mood-Based Movie Recommendation System  
-- 📧 **Spam Email Detection** using Machine Learning  
+- 📧 **Spam Email Detection** using Machine Learning
+- 🤖 **LinkedIn AI Automation** – AI-powered LinkedIn content generation, approval, regeneration, and automated publishing using n8n, Gemini AI, Gmail, and LinkedIn API. 
 
 
 > 📂 Check my pinned repositories for project source code
