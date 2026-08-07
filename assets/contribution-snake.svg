@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake animation</title><desc id="desc">An animated developer journey snake. The GitHub workflow replaces this fallback with live contribution data.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="snake" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+  <rect width="900" height="190" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <g fill="#1f2937">
+    <circle cx="90" cy="118" r="7"/><circle cx="125" cy="118" r="7"/><circle cx="160" cy="118" r="7"/><circle cx="195" cy="118" r="7"/><circle cx="230" cy="118" r="7"/><circle cx="265" cy="118" r="7"/><circle cx="300" cy="118" r="7"/><circle cx="335" cy="118" r="7"/><circle cx="370" cy="118" r="7"/><circle cx="405" cy="118" r="7"/><circle cx="440" cy="118" r="7"/><circle cx="475" cy="118" r="7"/><circle cx="510" cy="118" r="7"/><circle cx="545" cy="118" r="7"/><circle cx="580" cy="118" r="7"/><circle cx="615" cy="118" r="7"/><circle cx="650" cy="118" r="7"/><circle cx="685" cy="118" r="7"/><circle cx="720" cy="118" r="7"/><circle cx="755" cy="118" r="7"/><circle cx="790" cy="118" r="7"/>
+  </g>
+  <path d="M75 118 C150 50 225 170 305 100 S455 62 540 118 S700 160 820 83" fill="none" stroke="url(#snake)" stroke-width="9" stroke-linecap="round" stroke-dasharray="65 650">
+    <animate attributeName="stroke-dashoffset" values="715;0" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle r="12" fill="#f472b6"><animateMotion dur="4s" repeatCount="indefinite" path="M75 118 C150 50 225 170 305 100 S455 62 540 118 S700 160 820 83"/></circle>
+  <text x="32" y="42" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Contribution Journey</text>
+  <text x="32" y="64" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">AI • Automation • Full Stack • Open Source</text>
+</svg>
