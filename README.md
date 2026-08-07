@@ -88,15 +88,15 @@ I build practical AI-powered products, intelligent automations, and modern full-
 
 <div align="center">
 
-![Galla Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gallajagadeesh17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
+![Developer overview](assets/github-overview.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gallajagadeesh17&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gallajagadeesh17&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+![Technology focus](assets/language-focus.svg)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gallajagadeesh17&theme=tokyo-night&hide_border=true&area=true)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=gallajagadeesh17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+![Profile highlights](assets/profile-highlights.svg)
 
 </div>
 
@@ -147,7 +147,7 @@ Full Stack Projects    ████████████████░░░
 
 ### Contribution Snake
 
-![Contribution snake animation](https://raw.githubusercontent.com/gallajagadeesh17/gallajagadeesh17/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake animation](assets/contribution-snake.svg)
 
 </div>
 
