@@ -1,12 +1,10 @@
 <div align="center">
 
-# Galla Jagadeesh
+![Galla Jagadeesh — AI and Full Stack Developer](assets/hero-banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Python+%7C+Flask+%7C+React+Developer;Prompt+Engineer+%26+n8n+Automation+Developer;Building+Agentic+AI+and+SaaS+Applications)](https://github.com/DenverCoder1/readme-typing-svg)
+### Turning ambitious ideas into intelligent products
 
-### AI & Full Stack Developer · Prompt Engineer · n8n Automation Developer
-
-I build practical AI-powered products, intelligent automations, and modern full-stack applications that turn real-world ideas into useful software.
+AI Developer · Full Stack Developer · Prompt Engineer · n8n Automation Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gallajagadeesh17&label=Profile+views&color=2563eb&style=flat-square)](https://github.com/gallajagadeesh17)
 [![GitHub followers](https://img.shields.io/github/followers/gallajagadeesh17?label=Followers&style=flat-square&color=06b6d4)](https://github.com/gallajagadeesh17?tab=followers)
